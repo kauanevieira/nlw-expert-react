@@ -26,3 +26,30 @@ npm install -D tailwindcss postcss autoprefixer
 npx tailwindcss init -p
 ```
 
+# Aula 2
+
+A decolagem foi um sucesso e agora é hora de avançar. Para evoluir nosso projeto, vamos entender mais sobre propriedades e estado, além de conhecer e usar as bibliotecas Radix UI (para uso de modal), date-fns (para tratamento de datas) e Sonner (para exibição de toasts).
+
+## Radix
+
+```sh
+npm install @radix-ui/react-dialog
+```
+
+## Date-FNS
+
+```sh
+npm install date-fns
+```
+
+## Pacote de icones
+
+```sh
+npm install lucide-react
+```
+
+## Sonner
+
+```sh
+npm install sonner
+```
