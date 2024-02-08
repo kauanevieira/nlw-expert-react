@@ -57,3 +57,8 @@ npm install sonner
 # Aula 3
 
 O próximo nível está cada vez mais próximo! Finalmente vamos conhecer o SpeechRecognition, API que vai transformar o áudio do usuário em notas. Além disso, vamos implementar o conceito de Lifting State Up para o gerenciamento de notas e a persistência dos dados utilizando LocalStorage.
+
+## Speech Recognition
+```sh
+npm install -D @types/dom-speech-recognition
+```
